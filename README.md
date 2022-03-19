@@ -1,3 +1,10 @@
+# Local Development Notes
+
+Base branches off origin/main:
+`git checkout -b <branchname> origin/main`
+
+Push branches back to origin and create PRs and merge into main:
+`git push origin`
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
